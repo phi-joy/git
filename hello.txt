@@ -1,3 +1,4 @@
 I recommend Git.
 It's a wonderful night.
 Let it go.
+Git tracks changes.
