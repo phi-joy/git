@@ -1,2 +1,3 @@
-I'm learning Git.
-It's a good night.
+I recommend Git.
+It's a wonderful night.
+Let it go.
